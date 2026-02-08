@@ -1,6 +1,6 @@
 # Hi, I'm Vageesh Nilindu! 👋
 
-[INSERT YOUR CHOSEN PARAGRAPH HERE]
+Welcome to my corner of GitHUb!🚀 I'm a CS student focused on the logic behind the screen. While I love the speed of modern development tools, I'm currently diving deep into the 'How" and 'Why' of code moving paste the syntax to understand data structures, algorithms, and clean architecture. Currently building projects that challenge my oersppective on what's possible with code.
 
 ---
 
