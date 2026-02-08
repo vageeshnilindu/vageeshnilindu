@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm [Your Name]! 👋
 
-<!--
-**vageeshnilindu/vageeshnilindu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[INSERT YOUR CHOSEN PARAGRAPH HERE]
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 My Digital Toolbox
+* **Languages:** HTML5, CSS3, JavaScript (Learning Java/Python/C/C++)
+* **Methodology:** Hybrid AI-Workflow (Vibe Coding + Manual Refactoring)
+* **Tools:** Git, GitHub, VS Code, Antigravity
+
+### 📈 Current Focus
+* 🎓 Starting my B.S. in Computer Science (2026)
+* 🧠 Deepening my knowledge of **CSS Grid & Flexbox**
+* 🧪 Experimenting with **Web3Forms** and Serverless logic
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/vageesh-nilindu/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:vageeshnilindu585@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<div align="center">
+  *"The best way to predict the future is to invent it."*
+</div>
